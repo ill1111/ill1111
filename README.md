@@ -1,6 +1,6 @@
 # 👋 Hi, I'm ill1111
 
-I like building personal tools to solve everyday problems. Currently exploring Python, web development, and automation while keeping my design roots.
+I like building personal tools to solve everyday problems. Currently exploring Python, web development, and automation.
 
 ---
 
