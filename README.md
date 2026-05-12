@@ -18,7 +18,7 @@ Currently learning programming to build tools that enhance my creative workflow.
 ## 🛠 Core Skills
 
 ### 🎥 Video & Motion Expertise
-![After Effects](https://img.shields.io/badge/After_Effects-C599FF?style=flat&logo=adobeaftereffects&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-99CAFF?style=flat&logo=adobeaftereffects&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
 ![Cinema 4D](https://img.shields.io/badge/Cinema_4D-011A6B?style=flat&logo=cinema4d&logoColor=white)
 
